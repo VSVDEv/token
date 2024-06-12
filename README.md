@@ -1,9 +1,12 @@
 # Work with GitHub personal access token
 
-
+```sh
 git clone https://<GITHUB_USERNAME>:<ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<repository>.git 
 
 git push --set-upstream https://<GITHUB_USERNAME>:<ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<repository>.git 
+
+```
+
 
 
 
